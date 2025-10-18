@@ -1,0 +1,32 @@
+.friend {
+  display: flex;
+
+  width: 977px;
+  height: 250px;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  padding: 5px;
+}
+
+.item:nth-child(even) {
+  align-self: flex-end;
+}
+
+.span {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.name {
+  font-size: 22px;
+  margin-left: 5px;
+}
