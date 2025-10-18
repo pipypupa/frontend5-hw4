@@ -22,7 +22,7 @@ ul {
 .stat__list {
   display: flex;
   justify-content: center;
-  gap: 5px;
+  gap: 10px;
 }
 
 .stat__item {

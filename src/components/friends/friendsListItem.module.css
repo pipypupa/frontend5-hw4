@@ -14,10 +14,6 @@
   padding: 5px;
 }
 
-.item:nth-child(even) {
-  align-self: flex-end;
-}
-
 .span {
   width: 30px;
   height: 30px;
